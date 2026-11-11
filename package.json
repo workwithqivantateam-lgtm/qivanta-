@@ -1,0 +1,13 @@
+{
+  "name": "qivanta-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm --prefix qivanta run install:all",
+    "dev": "npm --prefix qivanta run dev",
+    "seed": "npm --prefix qivanta run seed",
+    "build": "npm --prefix qivanta run build",
+    "start": "npm --prefix qivanta run start"
+  }
+}
+
